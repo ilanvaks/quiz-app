@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "question": "2+2 = ",
+    "options": [
+      {"answer": "It will be 5",
+        "isCorrect": false
+      },
+
+      {"answer": "It could be 3",
+        "isCorrect": false
+      },
+
+      {"answer": "Maybe 1",
+        "isCorrect": false
+      },
+
+      {"answer": "Fo Sho 4",
+        "isCorrect": true
+      }
+    ]
+  },
+
+
+
+  {
+    "id": "2",
+    "question": "What is the capital of New York?",
+    "options": [
+      {"answer": "Brooklyn",
+        "isCorrect": false
+      },
+
+      {"answer": "Manhattan",
+        "isCorrect": false
+      },
+
+      {"answer": "Idan", 
+        "isCorrect": true
+      },
+
+      {"answer": "Albany",
+        "isCorrect": true
+      }
+    ]
+  },
+
+
+
+  {
+    "id": "3",
+    "question": "Who made the Macintosh?",
+    "options": [
+      {"answer": "Steve Jobs",
+        "isCorrect": false
+      },
+      
+      {"answer": "Steve Wozniak", 
+        "isCorrect": true
+      },
+
+      {"answer": "Brian Pinney",
+        "isCorrect": false
+      },
+
+      {
+        "answer": "Aaron Agpsto",
+          "isCorrect": true
+      }
+    ]
+  }
+]
