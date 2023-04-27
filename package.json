@@ -1,7 +1,7 @@
 {
   "name": "quiz-app",
   "version": "0.1.0",
-  "homepage": "https://ilanvaks.github.io/my-portfolio-c10",
+  "homepage": "https://ilanvaks.github.io/quiz-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
